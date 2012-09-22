@@ -8,7 +8,6 @@ desktopfiles = list()
 rootdir = os.path.expanduser("~/.local/share/")
 rootapplications = "/usr/share/applications/"
 userapplications = rootdir + "applications/"
-trash = rootdir + "trash/"
 
 def parseFile(f):
 	r = open(f)
