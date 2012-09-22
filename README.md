@@ -1,0 +1,1 @@
+More info: http://crunchbanglinux.org/forums/topic/20798/clean-desktop-files/
